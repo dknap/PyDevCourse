@@ -1,5 +1,5 @@
 # input
-name = input('Yor name: ')
+name = input('Your name: ')
 print('Hello, ' + name + '.')
 
 # types conversion
