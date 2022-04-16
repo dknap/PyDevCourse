@@ -10,6 +10,7 @@ class Animal:
 
     def give_voice(self):
         print("Voice")
+        # raise NotImplementedError()
 
 class Mammal(Animal):
     def __init__(self, name, age):

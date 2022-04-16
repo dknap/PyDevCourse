@@ -11,4 +11,3 @@ dictionary = {
 for key, figure in dictionary.items():
     print(f"Area ({key}): ", figure.area())
     print(f"Circuit ({key}): ", figure.perimeter())
-    
