@@ -1,8 +1,9 @@
 import tkinter as tk
-from tkinter import ttk
+from tkinter import Spinbox, ttk
 from tkinter import scrolledtext
-from tkinter import messagebox
+from tkinter import messagebox as mBox
 from tkinter import Menu
+from tkinter import Spinbox
 
 win = tk.Tk()
 win.title('tkinter v2')
@@ -12,10 +13,10 @@ win.title('tkinter v2')
 tabControl = ttk.Notebook(win)
 
 tab1 = ttk.Frame(tabControl)
-tabControl.add(tab1, text='Tab 1')
+tabControl.add(tab1, text='Work')
 
 tab2 = ttk.Frame(tabControl)
-tabControl.add(tab2, text='Tab 2')  # a reference to an object
+tabControl.add(tab2, text='Settings')  # a reference to an object
 tabControl.pack(expand=1, fill='both', padx=10, pady=10)
 
 # widgets in tabs
@@ -77,7 +78,6 @@ chVarEn = tk.IntVar()
 check3 = tk.Checkbutton(mainFrame, text='Enabled', variable=chVarEn)
 check3.select()
 check3.grid(column=2, row=4, sticky=tk.W)
-
 
 # RadioButton
 
@@ -142,14 +142,6 @@ ttk.Label(labelsFrame, text='Label3').grid(column=0, row=2)
 for child in labelsFrame.winfo_children():
     child.grid_configure(padx=10, pady=10)
 
-
-# warning button
-def warnMe():
-     messagebox.showwarning('WARNING!', 'TEXT TEXT TEXT TEXT')
-
-warn = ttk.Button(labelsFrame, text='Click!', command=warnMe)
-warn.grid(column=0, row=3)
-
 def _quit():
     win.quit()
     win.destroy()
@@ -166,10 +158,22 @@ fileMenu.add_command(label='New')
 fileMenu.add_separator()
 fileMenu.add_command(label='Exit', command=_quit)
 
-helpMenu = Menu(menuBar, tearoff=0)
-menuBar.add_cascade(label='Help', menu=helpMenu) 
-helpMenu.add_command(label='ReadMe')
-helpMenu.add_command(label='About')
+def _msgBox():
+    mBox.showinfo('INFO', 'Software by KnapCorp')
+    answer = mBox.askyesno('yes or no?', 'Yes or No?')
+    print(answer)
+    if not answer:
+        _quit()
 
+helpMenu = Menu(menuBar, tearoff=0)
+menuBar.add_cascade(label='Help', menu=helpMenu)
+helpMenu.add_command(label='About', command=_msgBox)
+
+# spinbox
+
+spin = Spinbox(labelsFrame, from_=1, to=10)
+spin.grid(column=0, row=3, pady=15)
+
+win.iconbitmap(r'icon.ico')
 
 win.mainloop()

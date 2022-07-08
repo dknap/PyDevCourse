@@ -1,10 +1,17 @@
 import tkinter as tk
 from tkinter import ttk
 from tkinter import scrolledtext
-from tkinter import messagebox as mBox
+from tkinter import messagebox
+from tkinter import Menu
+
 
 win = tk.Tk()
-win.title('GigaChad v1')
+win.title('tkinter v1')
+# win.geometry('280x400')
+win.resizable(0, 0)
+
+mainFrame = ttk.LabelFrame(win, text='Main Label Frame')
+mainFrame.grid(column=0, row=0, columnspan=3, pady=15, padx=5)
 
 #label
 # aLabel = ttk.Label(win, text='First label')
@@ -12,46 +19,46 @@ win.title('GigaChad v1')
 
 # button modification
 def clickMe():
-    action.configure(text='Hello, ' + name.get() + '! Your number: ' + numberChosen.get())
+    action.configure(text='Hello, ' + name.get() + numberChosen.get())
 
 # change label
-aLabel = ttk.Label(win, text='Enter a name:' ).grid(column=0, row=0)
+aLabel = ttk.Label(mainFrame, text='Enter a name:' ).grid(column=0, row=0)
 # aLabel.configure(text='Enter a name: ')
 
 # add textbox
 name = tk.StringVar()
-nameEntered = ttk.Entry(win, width=12, textvariable=name)
+nameEntered = ttk.Entry(mainFrame, width=12, textvariable=name)
 nameEntered.grid(column=0, row=1) 
 
 # add button
-action = ttk.Button(win, text='--> Clik me <--', command=clickMe)
+action = ttk.Button(mainFrame, text='--> Clik me <--', command=clickMe)
 action.grid(column=2, row=1)
 # action.configure(state='disable')
 nameEntered.focus()
 
 # ComboBox
-ttk.Label(win, text='Choose number: ').grid(column=1, row=0)
+ttk.Label(mainFrame, text='Choose number: ').grid(column=1, row=0)
 number = tk.StringVar
-numberChosen = ttk.Combobox(win, width=12, textvariable=number, state='readonly')
+numberChosen = ttk.Combobox(mainFrame, width=12, textvariable=number, state='readonly')
 numberChosen['values'] = (1, 2, 4, 42, 100)
 numberChosen.grid(column=1, row=1)
 numberChosen.current(0)
 
 # Checkbox - disabled
 chVarDis = tk.IntVar()
-check1 = tk.Checkbutton(win, text='Disabled', variable=chVarDis, state='disabled')
+check1 = tk.Checkbutton(mainFrame, text='Disabled', variable=chVarDis, state='disabled')
 check1.select()
 check1.grid(column=0, row=4, sticky=tk.W)
 
 # Checkbox - Unchecked
 chVarUn = tk.IntVar()
-check2 = tk.Checkbutton(win, text='Unchecked', variable=chVarUn)
+check2 = tk.Checkbutton(mainFrame, text='Unchecked', variable=chVarUn)
 check2.deselect()
 check2.grid(column=1, row=4, sticky=tk.W)
 
 # Checkbox - Checked
 chVarEn = tk.IntVar()
-check3 = tk.Checkbutton(win, text='Enabled', variable=chVarEn)
+check3 = tk.Checkbutton(mainFrame, text='Enabled', variable=chVarEn)
 check3.select()
 check3.grid(column=2, row=4, sticky=tk.W)
 
@@ -91,19 +98,19 @@ radVar.set(99)
 
 for col in range(len(colors)):
     curRad = 'rad' + str(col)
-    curRad = tk.Radiobutton(win, text=colors[col], variable=radVar, value=col, command=radCall)
+    curRad = tk.Radiobutton(mainFrame, text=colors[col], variable=radVar, value=col, command=radCall)
     curRad.grid(column=col, row=6, sticky=tk.W)
 
 
 # ScrolledText
 scrolW = 30
 scrolH = 3
-scr = scrolledtext.ScrolledText(win, width=scrolW, height=scrolH, wrap=tk.WORD)
+scr = scrolledtext.ScrolledText(mainFrame, width=scrolW, height=scrolH, wrap=tk.WORD)
 scr.grid(column=0, columnspan=3, sticky='WE')
 
 
 # Label Frame
-labelsFrame = ttk.LabelFrame(win, text=' --- Labels in Frame ---')
+labelsFrame = ttk.LabelFrame(mainFrame, text=' --- Labels in Frame ---')
 labelsFrame.grid(column=0, row=8, padx=10, pady=10, columnspan=3, sticky='WE')     # in px
 
 ttk.Label(labelsFrame, text='Label1').grid(column=0, row=0)
@@ -113,12 +120,26 @@ ttk.Label(labelsFrame, text='Label3').grid(column=0, row=2)
 for child in labelsFrame.winfo_children():
     child.grid_configure(padx=10, pady=10)
 
+def _quit():
+    win.quit()
+    win.destroy()
+    exit()
 
-# warning button
-def warnMe():
-     mBox.showwarning('WARNING!', 'TEXT TEXT TEXT TEXT')
+# Menu
+menuBar = Menu(win)
+win.config(menu=menuBar)
 
-warn = ttk.Button(labelsFrame, text='Click!', command=warnMe)
-warn.grid(column=0, row=3)
+# add menu items
+fileMenu = Menu(menuBar, tearoff=0)
+menuBar.add_cascade(label='File', menu=fileMenu)
+fileMenu.add_command(label='New')
+fileMenu.add_separator()
+fileMenu.add_command(label='Exit', command=_quit)
+
+helpMenu = Menu(menuBar, tearoff=0)
+menuBar.add_cascade(label='Help', menu=helpMenu) 
+helpMenu.add_command(label='ReadMe')
+helpMenu.add_command(label='About')
+
 
 win.mainloop()
