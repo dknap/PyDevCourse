@@ -1,10 +1,13 @@
 from email.policy import default
+from pickle import GLOBAL
 import tkinter as tk
 from tkinter import Spinbox, ttk
 from tkinter import scrolledtext
 from tkinter import messagebox as mBox
 from tkinter import Menu
 from tkinter import Spinbox
+
+GLOBAL_CONST = 42
 
 win = tk.Tk()
 win.title('tkinter v2')
@@ -177,9 +180,20 @@ def _spin():
     print(value)
     scr.insert(tk.INSERT, value + ' ')          # add value to ScrolledText
 
-spin = Spinbox(mainFrame, from_=1, to=10, width=6, bd=8, command=_spin, relief=tk.RIDGE)
+spin = Spinbox(mainFrame, width=6, bd=8, command=_spin, relief=tk.RIDGE)
+spin['values'] = (10, 20, 30, 40, 50, 60)
 spin.grid(column=0, row=3, pady=15, sticky=tk.W)
 
-win.iconbitmap(r'icon.ico')
+def usingGlobal():
+    # GLOBAL_CONST = 777                # SYNTAX ERROR
+    global GLOBAL_CONST
+    print(GLOBAL_CONST)
 
+strData = spin.get()
+print('SpinBox value: ' + strData)
+print(GLOBAL_CONST)
+usingGlobal()
+
+
+win.iconbitmap(r'icon.ico')
 win.mainloop()
