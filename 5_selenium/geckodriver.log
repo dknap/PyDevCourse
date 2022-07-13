@@ -825,3 +825,267 @@ JavaScript error: https://www.flashscore.com/, line 141: TypeError: e.target.par
 1657713295535	Marionette	INFO	Stopped listening on port 58140
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657715737860	geckodriver	INFO	Listening on 127.0.0.1:58703
+1657715740930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58704" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile9DXwnf"
+1657715742196	Marionette	INFO	Marionette enabled
+1657715742201	Marionette	INFO	Listening on port 58713
+WebDriver BiDi listening on ws://localhost:58704
+Read port: 58713
+1657715742843	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile9DXwnf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58704/devtools/browser/c470dcb7-9996-45aa-b87d-614e04dec87c
+1657715750782	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1657715758968	Marionette	INFO	Stopped listening on port 58713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657715787475	geckodriver	INFO	Listening on 127.0.0.1:58800
+1657715790503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileGlPlLd"
+1657715790846	Marionette	INFO	Marionette enabled
+1657715790850	Marionette	INFO	Listening on port 58810
+WebDriver BiDi listening on ws://localhost:58801
+Read port: 58810
+1657715791303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileGlPlLd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58801/devtools/browser/baf41fbe-5019-4c0e-b493-4e9b8c9a11d5
+1657715807214	Marionette	INFO	Stopped listening on port 58810
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657715813863	geckodriver	INFO	Listening on 127.0.0.1:58871
+1657715816916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileqNSDhq"
+1657715817308	Marionette	INFO	Marionette enabled
+1657715817312	Marionette	INFO	Listening on port 58881
+WebDriver BiDi listening on ws://localhost:58872
+Read port: 58881
+1657715817789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileqNSDhq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58872/devtools/browser/2f21997a-c26a-428a-b9c3-aaf29e6510d7
+1657715844573	Marionette	INFO	Stopped listening on port 58881
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657715853851	geckodriver	INFO	Listening on 127.0.0.1:58952
+1657715856920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58953" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile9xTKaX"
+1657715857308	Marionette	INFO	Marionette enabled
+1657715857313	Marionette	INFO	Listening on port 58962
+WebDriver BiDi listening on ws://localhost:58953
+Read port: 58962
+1657715857802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile9xTKaX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58953/devtools/browser/e79a2ce4-fbac-4325-897b-e1c5bb398411
+1657715877156	Marionette	INFO	Stopped listening on port 58962
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\knapd\AppData\Local\Temp\rust_mozprofile9xTKaX\protections.sqlite
+1657717358865	geckodriver	INFO	Listening on 127.0.0.1:59756
+1657717361846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilenCxGuF"
+1657717362803	Marionette	INFO	Marionette enabled
+1657717362808	Marionette	INFO	Listening on port 59769
+WebDriver BiDi listening on ws://localhost:59757
+Read port: 59769
+1657717363243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilenCxGuF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59757/devtools/browser/23e89d85-d2e5-4ff7-8ce8-14b91f9da53e
+1657717375846	Marionette	INFO	Stopped listening on port 59769
+1657717383905	geckodriver	INFO	Listening on 127.0.0.1:59822
+1657717386974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileBhd757"
+1657717387329	Marionette	INFO	Marionette enabled
+1657717387334	Marionette	INFO	Listening on port 59834
+WebDriver BiDi listening on ws://localhost:59823
+Read port: 59834
+1657717387795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileBhd757\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59823/devtools/browser/7ac03a03-885d-4c35-a334-70a948b95bb2
+1657717400790	Marionette	INFO	Stopped listening on port 59834
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657717408410	geckodriver	INFO	Listening on 127.0.0.1:59892
+1657717411459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileZMqo5q"
+1657717411813	Marionette	INFO	Marionette enabled
+1657717411818	Marionette	INFO	Listening on port 59904
+WebDriver BiDi listening on ws://localhost:59893
+Read port: 59904
+1657717412270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileZMqo5q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59893/devtools/browser/1fd9dc57-5eed-4e76-a260-b2bb7abc9098
+1657717424852	Marionette	INFO	Stopped listening on port 59904
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657718575035	geckodriver	INFO	Listening on 127.0.0.1:60401
+1657718578110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60402" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile6OHzGb"
+1657718578482	Marionette	INFO	Marionette enabled
+1657718578487	Marionette	INFO	Listening on port 60411
+WebDriver BiDi listening on ws://localhost:60402
+Read port: 60411
+1657718578999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile6OHzGb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60402/devtools/browser/f2614479-5c53-43b3-af38-09a32fe8f778
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1657718594246	Marionette	INFO	Stopped listening on port 60411
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657718602413	geckodriver	INFO	Listening on 127.0.0.1:60458
+1657718605469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile7kBvxd"
+1657718605832	Marionette	INFO	Marionette enabled
+1657718605837	Marionette	INFO	Listening on port 60468
+WebDriver BiDi listening on ws://localhost:60459
+Read port: 60468
+1657718606420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile7kBvxd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60459/devtools/browser/dd0e1381-2ae6-4e7a-bd01-0f3f7cf5c3d3
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657718619677	Marionette	INFO	Stopped listening on port 60468
+1657718880326	geckodriver	INFO	Listening on 127.0.0.1:60726
+1657718883279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileBFWqoJ"
+1657718885146	Marionette	INFO	Marionette enabled
+1657718885150	Marionette	INFO	Listening on port 60736
+WebDriver BiDi listening on ws://localhost:60727
+Read port: 60736
+1657718886238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileBFWqoJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60727/devtools/browser/fb96db11-046c-41c6-8642-69ae129f4a6d
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657718907531	Marionette	INFO	Stopped listening on port 60736
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657718910291	geckodriver	INFO	Listening on 127.0.0.1:60784
+1657718913314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile9PVxeC"
+1657718913839	Marionette	INFO	Marionette enabled
+1657718913844	Marionette	INFO	Listening on port 60797
+WebDriver BiDi listening on ws://localhost:60785
+Read port: 60797
+1657718914581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile9PVxeC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60785/devtools/browser/ad1757ba-467e-4d10-b230-a8c4174db86b
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657718960552	Marionette	INFO	Stopped listening on port 60797
+[Parent 16208, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1657718975304	geckodriver	INFO	Listening on 127.0.0.1:60850
+1657718978340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilep6IuM8"
+1657718978745	Marionette	INFO	Marionette enabled
+1657718978750	Marionette	INFO	Listening on port 60862
+WebDriver BiDi listening on ws://localhost:60851
+Read port: 60862
+1657718979315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilep6IuM8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60851/devtools/browser/a678e7ac-d895-4786-a7e3-adfa43c4e5f9
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1657718989539	Marionette	INFO	Stopped listening on port 60862
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657719023317	geckodriver	INFO	Listening on 127.0.0.1:60912
+1657719026369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileYyWfym"
+1657719026712	Marionette	INFO	Marionette enabled
+1657719026716	Marionette	INFO	Listening on port 60924
+WebDriver BiDi listening on ws://localhost:60913
+Read port: 60924
+1657719027279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileYyWfym\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60913/devtools/browser/13a002c9-55ca-4499-9614-7724ac8ed719
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1657719041014	Marionette	INFO	Stopped listening on port 60924
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657719055031	geckodriver	INFO	Listening on 127.0.0.1:60969
+1657719058086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60970" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile9OXqGk"
+1657719058449	Marionette	INFO	Marionette enabled
+1657719058455	Marionette	INFO	Listening on port 60980
+WebDriver BiDi listening on ws://localhost:60970
+Read port: 60980
+1657719058978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile9OXqGk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60970/devtools/browser/39cc05f9-bde6-4c3f-801d-c9796f57459c
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1657719100830	Marionette	INFO	Stopped listening on port 60980
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile2RF1eq"
+1657719095038	Marionette	INFO	Marionette enabled
+1657719095043	Marionette	INFO	Listening on port 61037
+WebDriver BiDi listening on ws://localhost:61028
+Read port: 61037
+1657719095680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile2RF1eq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61028/devtools/browser/e7fdda8f-57bd-4bb5-98f4-e523c9179882
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1657719117439	Marionette	INFO	Stopped listening on port 61037
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657719118724	geckodriver	INFO	Listening on 127.0.0.1:61085
+1657719121754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61086" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile5rASra"
+1657719122157	Marionette	INFO	Marionette enabled
+1657719122162	Marionette	INFO	Listening on port 61095
+WebDriver BiDi listening on ws://localhost:61086
+Read port: 61095
+1657719122648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile5rASra\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61086/devtools/browser/d89c1180-6672-4f39-bdc8-fb676547c2d3
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+1657719134567	Marionette	INFO	Stopped listening on port 61095
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657719135510	geckodriver	INFO	Listening on 127.0.0.1:61141
+1657719138572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61142" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilea1310X"
+1657719138976	Marionette	INFO	Marionette enabled
+1657719138981	Marionette	INFO	Listening on port 61151
+WebDriver BiDi listening on ws://localhost:61142
+Read port: 61151
+1657719139449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilea1310X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61142/devtools/browser/82703625-e910-4c23-bec7-5c5576644b12
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i0nN4/y9/l/pl_PL/fWOLyyvx-H2.js?_nc_x=Ij3Wp8lg5Kz, line 16: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1657719151359	Marionette	INFO	Stopped listening on port 61151
+!!! error running onStopped callback: TypeError: callback is not a function
+1657719153703	geckodriver	INFO	Listening on 127.0.0.1:61197
+1657719156783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofiletpPdFA"
+1657719157144	Marionette	INFO	Marionette enabled
+1657719157149	Marionette	INFO	Listening on port 61207
+WebDriver BiDi listening on ws://localhost:61198
+Read port: 61207
+1657719157728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofiletpPdFA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61198/devtools/browser/0a804666-6b68-4a0a-b755-32e9b88d2d2a
+1657719162428	Marionette	INFO	Stopped listening on port 61207
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
