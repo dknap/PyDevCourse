@@ -359,3 +359,469 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
 JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
 1657634580096	Marionette	INFO	Stopped listening on port 60907
+1657708712787	geckodriver	INFO	Listening on 127.0.0.1:63685
+1657708715893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63686" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilelCp9qf"
+1657708719224	Marionette	INFO	Marionette enabled
+1657708719230	Marionette	INFO	Listening on port 63698
+WebDriver BiDi listening on ws://localhost:63686
+Read port: 63698
+1657708720092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilelCp9qf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63686/devtools/browser/27b93fd4-75ce-4425-903c-5f8e378e3283
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1657708739753	Marionette	INFO	Stopped listening on port 63698
+1657709330148	geckodriver	INFO	Listening on 127.0.0.1:63960
+1657709333187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilekSSl79"
+1657709333678	Marionette	INFO	Marionette enabled
+1657709333689	Marionette	INFO	Listening on port 63971
+WebDriver BiDi listening on ws://localhost:63961
+Read port: 63971
+1657709334282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilekSSl79\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63961/devtools/browser/a712a2de-8162-48b0-bbaf-7fd85b253ea5
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1657709347597	Marionette	INFO	Stopped listening on port 63971
+1657709654030	geckodriver	INFO	Listening on 127.0.0.1:64139
+1657709657060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64140" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilelhUwyh"
+1657709657506	Marionette	INFO	Marionette enabled
+1657709657510	Marionette	INFO	Listening on port 64151
+WebDriver BiDi listening on ws://localhost:64140
+Read port: 64151
+1657709658141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilelhUwyh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64140/devtools/browser/cf3c37bc-3865-4cf7-a7a1-8d78f6ccc30e
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1657709669509	Marionette	INFO	Stopped listening on port 64151
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657710043826	geckodriver	INFO	Listening on 127.0.0.1:64407
+1657710046891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64408" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileTB2zEy"
+1657710047281	Marionette	INFO	Marionette enabled
+1657710047286	Marionette	INFO	Listening on port 64419
+WebDriver BiDi listening on ws://localhost:64408
+Read port: 64419
+1657710047757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileTB2zEy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64408/devtools/browser/58241c4b-5bfb-4404-b589-1bfe2d4c6be3
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+1657710056653	Marionette	INFO	Stopped listening on port 64419
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657710472142	geckodriver	INFO	Listening on 127.0.0.1:64692
+1657710475183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileYCXnJe"
+1657710475631	Marionette	INFO	Marionette enabled
+1657710475635	Marionette	INFO	Listening on port 64706
+WebDriver BiDi listening on ws://localhost:64693
+Read port: 64706
+1657710476099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileYCXnJe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64693/devtools/browser/3cfc7530-3ef6-4fba-bcff-a232b9a346ce
+JavaScript error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+1657710511156	Marionette	INFO	Stopped listening on port 64706
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657710540708	geckodriver	INFO	Listening on 127.0.0.1:64865
+1657710543759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64866" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileS9UwI1"
+1657710544220	Marionette	INFO	Marionette enabled
+1657710544225	Marionette	INFO	Listening on port 64877
+WebDriver BiDi listening on ws://localhost:64866
+Read port: 64877
+1657710544773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileS9UwI1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64866/devtools/browser/e2a8dfc5-a35c-43ac-8808-94f470ab8b21
+JavaScript error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+1657710562848	Marionette	INFO	Stopped listening on port 64877
+1657710563312	geckodriver	INFO	Listening on 127.0.0.1:64990
+1657710568279	geckodriver	INFO	Listening on 127.0.0.1:64997
+1657710571338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64998" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileVvmw21"
+1657710571684	Marionette	INFO	Marionette enabled
+1657710571688	Marionette	INFO	Listening on port 65008
+WebDriver BiDi listening on ws://localhost:64998
+Read port: 65008
+1657710572180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileVvmw21\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64998/devtools/browser/17854a6f-2ee8-4739-b6ed-f00256c125a8
+JavaScript error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657710954754	Marionette	INFO	Stopped listening on port 65008
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+pt error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: TypeError: $(...)[0] is undefined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: TypeError: $(...)[0] is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://strefakursow.pl/, line 4936: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4935: [ opened at line 4935, column 21
+1657710896104	Marionette	INFO	Stopped listening on port 65201
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657710951999	geckodriver	INFO	Listening on 127.0.0.1:65356
+1657710955069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileffQPPx"
+1657710955758	Marionette	INFO	Marionette enabled
+1657710955763	Marionette	INFO	Listening on port 65370
+WebDriver BiDi listening on ws://localhost:65357
+Read port: 65370
+1657710956540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1657710959957	geckodriver	INFO	Listening on 127.0.0.1:65378
+1657710963021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileLVSIB3"
+1657710963363	Marionette	INFO	Marionette enabled
+1657710963367	Marionette	INFO	Listening on port 65388
+WebDriver BiDi listening on ws://localhost:65379
+Read port: 65388
+1657710963898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileLVSIB3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65379/devtools/browser/efc6eeed-972a-4aae-a6d5-ccc5bdbda69e
+JavaScript error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+1657711045868	Marionette	INFO	Stopped listening on port 65388
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657711049374	geckodriver	INFO	Listening on 127.0.0.1:65531
+1657711052444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65532" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilepYvCRv"
+1657711052796	Marionette	INFO	Marionette enabled
+1657711052801	Marionette	INFO	Listening on port 49158
+WebDriver BiDi listening on ws://localhost:65532
+Read port: 49158
+1657711053391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilepYvCRv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65532/devtools/browser/b1397e02-535d-4beb-aa05-41dd737cebcd
+JavaScript error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: TypeError: $(...)[0] is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657711180264	Marionette	INFO	Stopped listening on port 49158
+1657711182265	geckodriver	INFO	Listening on 127.0.0.1:49318
+1657711185318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilexKTfVm"
+1657711185758	Marionette	INFO	Marionette enabled
+1657711185762	Marionette	INFO	Listening on port 49329
+WebDriver BiDi listening on ws://localhost:49319
+Read port: 49329
+1657711186520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilexKTfVm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49319/devtools/browser/06db6ef4-8900-4056-8160-5dbcf236219b
+JavaScript error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+1657711244860	Marionette	INFO	Stopped listening on port 49329
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657711298905	geckodriver	INFO	Listening on 127.0.0.1:49460
+1657711301945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49461" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileyOcmBc"
+1657711302348	Marionette	INFO	Marionette enabled
+1657711302353	Marionette	INFO	Listening on port 49473
+WebDriver BiDi listening on ws://localhost:49461
+Read port: 49473
+1657711302785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileyOcmBc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49461/devtools/browser/cb8e1f98-0ea8-441f-8e71-e87adc51783a
+JavaScript error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+1657711313623	Marionette	INFO	Stopped listening on port 49473
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+1657711317714	geckodriver	INFO	Listening on 127.0.0.1:49583
+1657711320769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49584" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile78CQS8"
+1657711321138	Marionette	INFO	Marionette enabled
+1657711321143	Marionette	INFO	Listening on port 49593
+WebDriver BiDi listening on ws://localhost:49584
+Read port: 49593
+1657711321680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile78CQS8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49584/devtools/browser/51e0bd81-e421-4be2-b7c7-c1fd61e0dcd5
+JavaScript error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+1657711405436	Marionette	INFO	Stopped listening on port 49593
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657711696837	geckodriver	INFO	Listening on 127.0.0.1:49861
+1657711699882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49862" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilep4GOVu"
+1657711700218	Marionette	INFO	Marionette enabled
+1657711700223	Marionette	INFO	Listening on port 49874
+WebDriver BiDi listening on ws://localhost:49862
+Read port: 49874
+1657711700812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilep4GOVu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49862/devtools/browser/18f464e0-c224-45aa-b728-338cc998e0ee
+JavaScript error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+1657711784207	Marionette	INFO	Stopped listening on port 49874
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657711786039	geckodriver	INFO	Listening on 127.0.0.1:50060
+1657711789100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile4b97mp"
+1657711789522	Marionette	INFO	Marionette enabled
+1657711789526	Marionette	INFO	Listening on port 50072
+WebDriver BiDi listening on ws://localhost:50061
+Read port: 50072
+1657711790035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile4b97mp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50061/devtools/browser/d0332658-2eed-43a9-9f69-9cd2ef5f5e84
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+1657711828016	Marionette	INFO	Stopped listening on port 50072
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657712133488	geckodriver	INFO	Listening on 127.0.0.1:50448
+1657712136588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileEBJk8L"
+1657712136992	Marionette	INFO	Marionette enabled
+1657712136997	Marionette	INFO	Listening on port 50459
+WebDriver BiDi listening on ws://localhost:50449
+Read port: 50459
+1657712137557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileEBJk8L\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50449/devtools/browser/d721549e-c276-4294-838e-4e2002f948e1
+JavaScript error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://strefakursow.pl"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1657712213190	Marionette	INFO	Stopped listening on port 50459
+1657712221411	geckodriver	INFO	Listening on 127.0.0.1:50646
+1657712224452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilegbpgnD"
+1657712225718	Marionette	INFO	Marionette enabled
+1657712225722	Marionette	INFO	Listening on port 50658
+WebDriver BiDi listening on ws://localhost:50647
+Read port: 50658
+1657712226287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilegbpgnD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50647/devtools/browser/9fa7f552-f63d-4fb3-a45c-b7364e63dba4
+JavaScript error: https://strefakursow.pl/, line 4737: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4736: [ opened at line 4736, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+1657712305163	Marionette	INFO	Stopped listening on port 50658
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657712471262	geckodriver	INFO	Listening on 127.0.0.1:50909
+1657712474334	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilenv2dx8"
+1657712474700	Marionette	INFO	Marionette enabled
+1657712474704	Marionette	INFO	Listening on port 50920
+WebDriver BiDi listening on ws://localhost:50910
+Read port: 50920
+1657712475146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilenv2dx8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50910/devtools/browser/cbd5e62b-df06-465b-933c-52a6a02e48d2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.betclic.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.betclic.pl"
+1657712501496	Marionette	INFO	Stopped listening on port 50920
+1657712527610	geckodriver	INFO	Listening on 127.0.0.1:51092
+1657712530664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51093" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilevTBxuv"
+1657712531009	Marionette	INFO	Marionette enabled
+1657712531014	Marionette	INFO	Listening on port 51103
+WebDriver BiDi listening on ws://localhost:51093
+Read port: 51103
+1657712531503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilevTBxuv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51093/devtools/browser/a0daa185-d2ff-4850-bc9f-1a20ef72b0cc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.betclic.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.betclic.pl"
+1657712566187	Marionette	INFO	Stopped listening on port 51103
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657712619228	geckodriver	INFO	Listening on 127.0.0.1:51266
+1657712622287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilefSc6jJ"
+1657712622795	Marionette	INFO	Marionette enabled
+1657712622799	Marionette	INFO	Listening on port 51278
+WebDriver BiDi listening on ws://localhost:51267
+Read port: 51278
+1657712623300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofilefSc6jJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51267/devtools/browser/c78a2aad-93cc-4d54-989f-73445b9387fd
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.betclic.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.betclic.pl"
+1657712712047	Marionette	INFO	Stopped listening on port 51278
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\Temp\\rust_mozprofileCKBYhq"
+1657712669583	Marionette	INFO	Marionette enabled
+1657712669588	Marionette	INFO	Listening on port 51436
+WebDriver BiDi listening on ws://localhost:51426
+Read port: 51436
+1657712670057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileCKBYhq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51426/devtools/browser/9259057d-d645-4cb8-a832-7f73773cbd64
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.betclic.pl"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.betclic.pl"
+1657712870666	geckodriver	INFO	Listening on 127.0.0.1:57551
+1657712873727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57552" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileRwttS8"
+1657712874135	Marionette	INFO	Marionette enabled
+1657712874140	Marionette	INFO	Listening on port 57563
+WebDriver BiDi listening on ws://localhost:57552
+Read port: 57563
+1657712874627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileRwttS8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57552/devtools/browser/76cfa82d-d9e8-469d-8371-4598e8e73a54
+JavaScript error: https://strefakursow.pl/, line 4734: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4733: [ opened at line 4733, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+1657712883828	Marionette	INFO	Stopped listening on port 57563
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\knapd\AppData\Local\Temp\rust_mozprofileRwttS8\protections.sqlite
+1657712888418	geckodriver	INFO	Listening on 127.0.0.1:57679
+1657712891483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57680" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileI0nHDH"
+1657712891839	Marionette	INFO	Marionette enabled
+1657712891843	Marionette	INFO	Listening on port 57692
+WebDriver BiDi listening on ws://localhost:57680
+Read port: 57692
+1657712892362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileI0nHDH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57680/devtools/browser/89bd76a6-308f-40d6-80e0-bec96b8679e0
+JavaScript error: https://strefakursow.pl/, line 4734: SyntaxError: missing ] after element list
+JavaScript note: https://strefakursow.pl/, line 4733: [ opened at line 4733, column 21
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: ReferenceError: Swiper is not defined
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 12: TypeError: e is null
+JavaScript error: https://strefakursow.pl/redesign/js/main-build.js?v=1657704742046, line 14: ReferenceError: dataRecommend is not defined
+1657713089407	Marionette	INFO	Stopped listening on port 57692
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1657713226588	geckodriver	INFO	Listening on 127.0.0.1:58027
+1657713229676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58028" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileqtuejJ"
+1657713230043	Marionette	INFO	Marionette enabled
+1657713230047	Marionette	INFO	Listening on port 58038
+WebDriver BiDi listening on ws://localhost:58028
+Read port: 58038
+1657713230589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofileqtuejJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58028/devtools/browser/5ea32cef-2d67-4478-9007-a097a4ebb1e4
+1657713261354	Marionette	INFO	Stopped listening on port 58038
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1657713272334	geckodriver	INFO	Listening on 127.0.0.1:58129
+1657713275415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile2BXHrQ"
+1657713275787	Marionette	INFO	Marionette enabled
+1657713275792	Marionette	INFO	Listening on port 58140
+WebDriver BiDi listening on ws://localhost:58130
+Read port: 58140
+1657713276254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\knapd\\AppData\\Local\\Temp\\rust_mozprofile2BXHrQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58130/devtools/browser/c539d966-17bb-4b67-9930-cb29f07a2f57
+1657713283956	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:234:19
+TimedPromise@chrome://remote/content/marionette/sync.js:219:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://www.flashscore.com/, line 141: TypeError: e.target.parentNode is null
+1657713295535	Marionette	INFO	Stopped listening on port 58140
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
